@@ -26,15 +26,5 @@ Cooperationa and improving AI models for agricultural applications.
 |------|------|:---------:|-------|-------|
 | https://www.kaggle.com/datasets/usmanafzaal/strawberry-disease-detection-dataset | 560MB | images | Mask R-CNN | [Afzaal et al., 2021](https://www.mdpi.com/1424-8220/21/19/6565) |
 
-# Pigs
-## Pigs behavior
-
-# Suggestions for the data formats
-## Tag acceleration
-Files will be in .csv format with ';' as the delimiter. One file will contain data from one tag during one day from 00-00-00 till 23-59-59 or part of the day. The file name will have the format AccXYZ_YYYY-MM-DD_TagNNNN.csv, where NNNN is the number of the tag with the required number of digits and left 0 digits to keep all numbers in the same length. The file will include the time stamp in format HH-MM-SS.FFF, where HH is hours from 01 to 23 including the first 0 digit, MM are minutes including the first 0 digit, SS are seconds including the first 0 digit and FFF are milliseconds. The reference will be marked by a shortest distinguishable mark, for example, S is standing, L is lying, W is walking.
-
-Example
-
-| DateTime | Ax | Ay | Az | Reference behavior |
-|----------|----|----|----|--------------------|
-| 11-25-30.120 | 500 | 600 | -700 | S |
+# Apple
+## Apple detection
