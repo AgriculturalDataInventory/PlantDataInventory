@@ -30,4 +30,6 @@ Cooperationa and improving AI models for agricultural applications.
 
 # Apple
 ## Apple detection
+| link | Size | Model | Paper |
+|------|------|-------|-------|
 | https://conservancy.umn.edu/handle/11299/206575 | 3GB |  | [Haeni et al., 2022](https://onlinelibrary.wiley.com/doi/10.1002/rob.21902) |
