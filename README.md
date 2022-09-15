@@ -20,6 +20,7 @@ Cooperationa and improving AI models for agricultural applications.
 | https://strawdi.github.io/ | 4.1GB | Mask R-CNN | [Pérez-Borrero et al., 2020](https://www.sciencedirect.com/science/article/abs/pii/S0168169920300624) |
 | https://zenodo.org/record/6126677 | 1.5 GB | CNN YOLOv5 | [Lemsalu et al., 2022]() |
 | https://datadryad.org/stash/dataset/doi:10.25338/B8WC70 | 119MB |  | [Durand-Petiteville et al., 2017](https://www.sciencedirect.com/science/article/abs/pii/S0168169917305094?via%3Dihub) |
+| https://universe.roboflow.com/skripsie/strawberry.00/dataset/15 |  |  |  |
 
 ## Strawberry Disease Detection
 | link | Size | Model | Paper |
@@ -29,3 +30,4 @@ Cooperationa and improving AI models for agricultural applications.
 
 # Apple
 ## Apple detection
+| https://conservancy.umn.edu/handle/11299/206575 | 3GB |  | [Haeni et al., 2022](https://onlinelibrary.wiley.com/doi/10.1002/rob.21902) |
