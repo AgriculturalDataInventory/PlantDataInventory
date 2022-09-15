@@ -18,20 +18,13 @@ Cooperationa and improving AI models for agricultural applications.
 | link | Size | Variables | Model | Paper |
 |------|------|:---------:|-------|-------|
 | https://strawdi.github.io/ | 4.1GB | images | Mask R-CNN | [Pérez-Borrero et al., 2020](https://www.sciencedirect.com/science/article/abs/pii/S0168169920300624) |
-| https://zenodo.org/record/6126677 | 1.5 GB | images | CNN YOLOv5 | [Lemsalu et al., 2021]() |
-| https://zenodo.org/record/5849025 | 41.7 MB | Ax, Ay, Az | CNN | [Li et al., 2021](https://ieeexplore.ieee.org/abstract/document/9566833) |
-| https://zenodo.org/record/6784671 | 2.4 GB | Ax, Ay, Az | CNN | Bloch et al., 2022 |
-## Cow indoor localization
-| link | Size | Variables | Model | Paper |
-|------|------|:---------:|-------|-------|
-| https://zenodo.org/record/3981400 | 40 Gb | Frames | CNN | Pereira et al., in review |
-| https://zenodo.org/record/3900340 | 50 Gb | RSS x 10 stations | Trilateration | [Bloch et al., 2020](https://www.mdpi.com/1424-8220/20/14/3841) |
-## Cow outdoor localization
+| https://zenodo.org/record/6126677 | 1.5 GB | images | CNN YOLOv5 | [Lemsalu et al., 2022]() |
+|  |  |  |  | [ et al., 2021]() |
 
-## Cow health and welfare
+## Strawberry Disease Detection
 | link | Size | Variables | Model | Paper |
 |------|------|:---------:|-------|-------|
-| https://data.inrae.fr/dataset.xhtml?persistentId=doi:10.15454/52J8YS | 165 Mb |  |  | [Lardy et al. 2022](https://doi.org/10.1016/j.anopes.2022.100004) |
+| https://www.kaggle.com/datasets/usmanafzaal/strawberry-disease-detection-dataset | 560MB | images | Mask R-CNN | [Afzaal et al., 2021](https://www.mdpi.com/1424-8220/21/19/6565) |
 
 # Pigs
 ## Pigs behavior
