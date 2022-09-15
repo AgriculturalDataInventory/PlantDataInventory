@@ -1,23 +1,23 @@
-# PLF data inventory
-A database collection of farm animal behaviour phenotypes for modelling exploration.
+# Plant data inventory
+A collection of datasets related to plants.
 
 <p align="center">
   <img src="https://github.com/Animal-Data-Inventory/PLFDataInventory/blob/main/CowSensor.jpg" width="300">
 </p>
 
 # Goal
-Complete solution of the animal monitoring behavior problem.
+Cooperationa and improving AI models for agricultural applications.
 
 ## Methods
 - Development generic machine learning models based on different data sets.
 
 - Concentration of efforts for solving of specific problems by collaboration.
 
-# Cows
-## Cow behavior
+# Strawberry
+## Strawberry detection
 | link | Size | Variables | Model | Paper |
 |------|------|:---------:|-------|-------|
-| https://www.mdpi.com/1424-8220/20/17/4741 | 89Mb | X, Y, Z, Ax, Ay, Az | Linear mixed model | [Riaboff et al., 2020](https://www.mdpi.com/1424-8220/20/17/4741) |
+| https://strawdi.github.io/ | 4.1GB | images | Mask R-CNN | [Pérez-Borrero et al., 2020](https://www.sciencedirect.com/science/article/abs/pii/S0168169920300624) |
 | https://zenodo.org/record/4064802 | 8.2 GB | Ax, Ay, Az | CNN | [Pavlovic et al., 2021](https://www.mdpi.com/1424-8220/21/12/4050) |
 | https://zenodo.org/record/5849025 | 41.7 MB | Ax, Ay, Az | CNN | [Li et al., 2021](https://ieeexplore.ieee.org/abstract/document/9566833) |
 | https://zenodo.org/record/6784671 | 2.4 GB | Ax, Ay, Az | CNN | Bloch et al., 2022 |
