@@ -2,7 +2,7 @@
 A collection of datasets related to plants.
 
 <p align="center">
-  <img src="https://github.com/Animal-Data-Inventory/PLFDataInventory/blob/main/CowSensor.jpg" width="300">
+  <img src="https://github.com/AgriculturalDataInventory/PlantDataInventory/blob/main/DetectedStrawberries.png" width="300">
 </p>
 
 # Goal
@@ -18,7 +18,7 @@ Cooperationa and improving AI models for agricultural applications.
 | link | Size | Variables | Model | Paper |
 |------|------|:---------:|-------|-------|
 | https://strawdi.github.io/ | 4.1GB | images | Mask R-CNN | [Pérez-Borrero et al., 2020](https://www.sciencedirect.com/science/article/abs/pii/S0168169920300624) |
-| https://zenodo.org/record/4064802 | 8.2 GB | Ax, Ay, Az | CNN | [Pavlovic et al., 2021](https://www.mdpi.com/1424-8220/21/12/4050) |
+| https://zenodo.org/record/6126677 | 1.5 GB | images | CNN YOLOv5 | [Lemsalu et al., 2021]() |
 | https://zenodo.org/record/5849025 | 41.7 MB | Ax, Ay, Az | CNN | [Li et al., 2021](https://ieeexplore.ieee.org/abstract/document/9566833) |
 | https://zenodo.org/record/6784671 | 2.4 GB | Ax, Ay, Az | CNN | Bloch et al., 2022 |
 ## Cow indoor localization
